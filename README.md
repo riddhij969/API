@@ -124,7 +124,6 @@
  # Search Filter & Ordering Filter
  
   ![Screenshot (605)](https://user-images.githubusercontent.com/69605346/151621415-e268463b-ce4c-4070-a368-25e30b7b4818.png
-![Screenshot (613)](https://user-images.githubusercontent.com/69605346/151621430-240f6388-6b43-49b0-bdfc-a8b87db5aa66.png)
-![Screenshot (614)](https://user-images.githubusercontent.com/69605346/151621431-7ab21198-63b8-4491-af82-156005226a61.png)
-![users list](https://user-images.githubusercontent.com/69605346/151621436-eab5f206-5f62-4528-8368-9503a0ad7efd.png)
+  ![Screenshot (613)](https://user-images.githubusercontent.com/69605346/151621430-240f6388-6b43-49b0-bdfc-a8b87db5aa66.png)
+  ![Screenshot (614)](https://user-images.githubusercontent.com/69605346/151621431-7ab21198-63b8-4491-af82-156005226a61.png)
 
