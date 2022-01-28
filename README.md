@@ -83,28 +83,31 @@
     . git push heroku master
 
 
-# Postman Collection:
+# API on Postman & Localhost:
 
     <The request type>
 
-    GET | POST | PUT | DELETE    
-  
+    GET | POST | PUT | DELETE  
+    
+    
+  # Get
     The get() method sends a GET request to the specified url.
   ![Get](https://user-images.githubusercontent.com/69605346/151616795-b2c2c7d1-d1c5-42c8-a2c3-c74ed62bac41.png)
 
  
+  # Post
     The post() method is used to create a new user into the collection of users.
   ![Post data](https://user-images.githubusercontent.com/69605346/151617294-c70c2615-bbd0-4d71-aabb-3d033a25f29d.png)
   ![Post](https://user-images.githubusercontent.com/69605346/151617318-1c1bcc32-208a-4e0f-933f-3c37907f48f7.png)
 
 
-  
+  # Put
     The put() method is used to update existing user.
   ![Put Data](https://user-images.githubusercontent.com/69605346/151617941-e6b47835-b11c-4ab5-9ad4-3e3696ac8145.png)
   ![Put](https://user-images.githubusercontent.com/69605346/151617971-ba913d21-9038-485a-b09c-19cff5cb3445.png)
 
 
-
+  # Delete
     The delete() method is used to delete existing user.
   ![Delete Data](https://user-images.githubusercontent.com/69605346/151618603-b0e11838-2b88-401f-aece-df27bcf0e08a.png)
   ![Delete Confirm](https://user-images.githubusercontent.com/69605346/151618635-b3a6d254-64b2-4cb9-86a6-dbb0aed1b5a5.png)
@@ -122,7 +125,8 @@
 
 
  # Search Filter & Ordering Filter
- 
+    Using URL and filter option.
+    
   ![Screenshot (616)](https://user-images.githubusercontent.com/69605346/151623419-57fe0706-9838-4efc-bfa9-925e28b58165.png)
   ![Screenshot (617)](https://user-images.githubusercontent.com/69605346/151623422-c2f21235-230f-49d5-9d51-e7def36133cb.png)
 
