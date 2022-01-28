@@ -105,8 +105,12 @@
 
 
 
-    The delete() method is used to delete existing resources.
+    The delete() method is used to delete existing user.
   ![Delete](https://user-images.githubusercontent.com/69605346/96030508-b5459500-0e79-11eb-8b7a-c6b4dfa5231f.png)
+  ![Delete Data](https://user-images.githubusercontent.com/69605346/151618603-b0e11838-2b88-401f-aece-df27bcf0e08a.png)
+  ![Delete Confirm](https://user-images.githubusercontent.com/69605346/151618635-b3a6d254-64b2-4cb9-86a6-dbb0aed1b5a5.png)
+  ![Delete](https://user-images.githubusercontent.com/69605346/151618788-71ec77e0-f946-4a40-9d29-7825c7a1fee4.png)
+
   
 # Result
 
