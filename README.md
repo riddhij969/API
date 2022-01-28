@@ -90,10 +90,14 @@
     GET | POST | PUT | DELETE    
   
     The get() method sends a GET request to the specified url.
-  ![Get](https://user-images.githubusercontent.com/69605346/96029646-9266b100-0e78-11eb-963b-8a338efcf6ff.png)
+  ![Get](https://user-images.githubusercontent.com/69605346/151616795-b2c2c7d1-d1c5-42c8-a2c3-c74ed62bac41.png)
+
  
-    The post() method is used to create a new resource into the collection of resources.
-  ![Post](https://user-images.githubusercontent.com/69605346/96029932-f2f5ee00-0e78-11eb-8f92-034705d16b60.png)
+    The post() method is used to create a new user into the collection of users.
+  ![Post data](https://user-images.githubusercontent.com/69605346/151617294-c70c2615-bbd0-4d71-aabb-3d033a25f29d.png)
+  ![Post](https://user-images.githubusercontent.com/69605346/151617318-1c1bcc32-208a-4e0f-933f-3c37907f48f7.png)
+
+
   
     The put() method is used to update existing resources.
   ![Put](https://user-images.githubusercontent.com/69605346/96030335-829b9c80-0e79-11eb-9b70-6466e706a124.png)
