@@ -3,18 +3,21 @@
 # Description
     This API uses GET/POST/PUT/DELETE request to communicate and HTTP response codes to indenticate status and errors. 
     All responses come in standard JSON. All requests must include a content-type of application/json and the body must be valid JSON.
-    This API consists products of Mobile and Laptop.
+    This API consists users.
     By default Django REST Framework will produce a response like:
 
     {
-          "id": 2,
-          "Model_No": "A2",
-          "Name": "MI",
-          "Description": "Good Phone",
-          "RAM": 4,
-          "Processor": "2.83",
-          "Type": "Mobile"
-      },
+        "id": 1,
+        "first_name": "Josephine",
+        "last_name": "Darakjy",
+        "company_name": "Chanay, Jeffrey A Esq",
+        "age": 48,
+        "city": "Brighton",
+        "state": "MI",
+        "zip": 48116,
+        "email": "josephine_darakjy@darakjy.org",
+        "web": "http://www.chanayjeffreyaesq.com"
+    },
 
 # Prerequisites:
 
@@ -39,7 +42,7 @@
 
     'default': {
           'ENGINE': 'django.db.backends.mysql',
-          'NAME': 'your schema name',   (In my case schema name is products)
+          'NAME': 'your schema name',   (In my case schema name is users)
           'USER': 'your user name',     (In my case user name is root)
           'PASSWORD': 'your user password',
           'HOST': 'localhost',
@@ -47,7 +50,10 @@
       }
 
 # Running/ Development
-  
+
+    . startproject
+    . startapp
+    . createsuperuser
     . python manage.py makemigrations
     . python manage.py migrate
     . python manage.py runserver
