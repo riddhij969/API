@@ -99,8 +99,11 @@
 
 
   
-    The put() method is used to update existing resources.
-  ![Put](https://user-images.githubusercontent.com/69605346/96030335-829b9c80-0e79-11eb-9b70-6466e706a124.png)
+    The put() method is used to update existing user.
+  ![Put Data](https://user-images.githubusercontent.com/69605346/151617941-e6b47835-b11c-4ab5-9ad4-3e3696ac8145.png)
+  ![Put](https://user-images.githubusercontent.com/69605346/151617971-ba913d21-9038-485a-b09c-19cff5cb3445.png)
+
+
 
     The delete() method is used to delete existing resources.
   ![Delete](https://user-images.githubusercontent.com/69605346/96030508-b5459500-0e79-11eb-8b7a-c6b4dfa5231f.png)
