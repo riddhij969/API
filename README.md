@@ -56,11 +56,13 @@
     . My user name - Riddhi
     . My user password - Rj@123456
     
-   ![admin](https://user-images.githubusercontent.com/69605346/96028525-04d69180-0e77-11eb-92eb-9c9548a920a4.png)
+   ![admin](https://user-images.githubusercontent.com/69605346/151615463-17cb8ba6-0149-40d5-b537-22df0318a24a.png)
+
    
-    . For API View - http://127.0.0.1:8000/api/products_list/
+    . For API View - http://127.0.0.1:8000/api/users/
     
-   ![products_list](https://user-images.githubusercontent.com/69605346/96028869-83333380-0e77-11eb-8bc9-2e92a47cbb5e.png)
+   ![users list](https://user-images.githubusercontent.com/69605346/151615348-91cb960c-873f-4083-930b-ebdf71e8ff5e.png)
+
   
 # Deploying
   
