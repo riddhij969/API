@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1210140-b4d4-486b-a5b1-a4d1646dcd6d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="24H7OiNxzHOYLUi9C8YoCZvSZ4R" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1210140-b4d4-486b-a5b1-a4d1646dcd6d" name="Default Changelist" comment="" />
+      <created>1643275628050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643275628050</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="263" y="98" key="DBNavigator.DatasetFilterDialog" timestamp="1643381393390">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="263" y="98" key="DBNavigator.DatasetFilterDialog/0.0.1366.768@0.0.1366.768" timestamp="1643381393390" />
+    <state x="343" y="153" key="DBNavigator.PendingTransactionsDialog" timestamp="1643396931826">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="343" y="153" key="DBNavigator.PendingTransactionsDialog/0.0.1366.768@0.0.1366.768" timestamp="1643396931826" />
+    <state x="213" y="38" key="DBNavigator.ProjectSettingsDialog" timestamp="1643292841155">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="213" y="38" key="DBNavigator.ProjectSettingsDialog/0.0.1366.768@0.0.1366.768" timestamp="1643292841155" />
+  </component>
+</project>
