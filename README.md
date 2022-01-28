@@ -62,7 +62,8 @@
     . My user name - Riddhi
     . My user password - Rj@123456
     
-   ![admin](https://user-images.githubusercontent.com/69605346/151615463-17cb8ba6-0149-40d5-b537-22df0318a24a.png)
+   ![admin](https://user-images.githubusercontent.com/69605346/151615945-aa66433c-c138-42d4-a43c-980e759dc9a0.png)
+
 
    
     . For API View - http://127.0.0.1:8000/api/users/
