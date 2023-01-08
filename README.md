@@ -60,7 +60,7 @@
     . visit your API at http://127.0.0.1:8000/
     . For admin - http://127.0.0.1:8000/admin/
     . My user name - Riddhi
-    . My user password - Rj@123456
+    . My user password - 1234
     
    ![admin](https://user-images.githubusercontent.com/69605346/151615945-aa66433c-c138-42d4-a43c-980e759dc9a0.png)
 
