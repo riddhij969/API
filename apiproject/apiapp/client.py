@@ -6,7 +6,7 @@
 #
 #     #Get auth token
 #     url = "http://127.0.0.1:8000/api/auth/"
-#     response = requests.post(url, data= {'Username': 'Riddhi', 'Password': 'Rj@123456'})
+#     response = requests.post(url, data= {'Username': 'Riddhi', 'Password': '1234'})
 #     return response.json()
 #
 # def get_data():
